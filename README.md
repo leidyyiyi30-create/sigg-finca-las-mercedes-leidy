@@ -1,5 +1,5 @@
 # SIGG — Sistema Integral de Gestión Ganadera
-Sistema integral para la administración de la finca **Las Mercedes**. Centraliza el control del inventario del hato, el control sanitario, la reproducción, la producción, los potreros y los costos de la operación.
+Sistema integral para la administración de la finca **Las Mercedes**. Centraliza el control del inventario del hato, el control sanitario, la reproducción, la producción, los potreros y los costos de la operación.
 
 ## Descripción
 
