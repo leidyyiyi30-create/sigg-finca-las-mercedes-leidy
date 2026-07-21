@@ -1,5 +1,4 @@
- Zulma Patricia Salas Bautista
- 	
+
 # SIGG — Sistema integral de gestión ganadera 
 
 Sistema integral para la administración de la finca **Las Mercedes**. Centraliza el control del inventario de la finca, el control sanitario, la reproducción, la producción, los potreros y los costos de la operación
