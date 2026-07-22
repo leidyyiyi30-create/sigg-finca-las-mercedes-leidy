@@ -308,9 +308,10 @@ button:focus-visible {
 
 /* ---------- 7. Módulos ---------- */
 .modulos {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 1px;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    gap:1px;
     background-color: var(--borde);
     border: 1px solid var(--borde);
     list-style: none;
@@ -318,6 +319,7 @@ button:focus-visible {
 
 .modulo {
     background-color: var(--blanco);
+    flex:0 0 calc(33.333% - 1px);
 }
 
 .modulo__enlace {
