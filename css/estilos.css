@@ -5,25 +5,26 @@
 
 /* ---------- 1. Variables (los colores y medidas del sitio) ---------- */
 :root {
+    :root {
     /* Colores */
-    --pasto-hondo: #183A2D;   /* verde de pradera en sombra: fondos oscuros */
-    --pasto:       #3A6B4F;   /* verde medio */
-    --ocre:        #E6A93D;   /* pasto seco: color de acento */
-    --cuero:       #8A5A34;   /* cuero: acento secundario */
-    --tinta:       #221C16;   /* texto principal */
-    --tinta-suave: #5C544B;   /* texto secundario */
-    --hueso:       #FAFAF8;   /* fondo de la página */
-    --borde:       #E2DFD7;   /* líneas y bordes */
+    --pasto-hondo: #0F172A;   /* Azul oscuro */
+    --pasto:       #0F766E;   /* Verde azulado */
+    --ocre:        #F59E0B;   /* Dorado */
+    --cuero:       #DC2626;   /* Rojo elegante para detalles */
+    --tinta:       #1E293B;   /* Texto principal */
+    --tinta-suave: #64748B;   /* Texto secundario */
+    --hueso:       #F8FAFC;   /* Fondo claro */
+    --borde:       #CBD5E1;   /* Bordes */
     --blanco:      #FFFFFF;
 
     /* Tipografías */
     --display: "Big Shoulders Display", "Big Shoulders", "Arial Narrow", sans-serif;
-    --texto:   "Public Sans", system-ui, sans-serif;
-    --dato:    "IBM Plex Mono", monospace;
+    --texto: "Public Sans", system-ui, sans-serif;
+    --dato: "IBM Plex Mono", monospace;
 
     /* Medidas */
     --ancho: 1180px;
-    --radio: 4px;
+    --radio: 8px;
 }
 
 /* ---------- 2. Base ---------- */
